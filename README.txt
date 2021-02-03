@@ -1,8 +1,11 @@
 Info--
 CPSC-335-03 
 Project # 1 -- Cella Larks Ant 34
-Justin Stitt (flying solo, no team)
+Justin Stitt
 2/02/2021
+-=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
+Media--
+![](media/larksantgif.gif)
 -=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
 Intro/Task--
 Implement a more complex version of Langton's Ant that incorporates
