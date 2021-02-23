@@ -14,7 +14,7 @@ multiple colors and a custom ruleset including the ability to go straight.
 Dependencies--
  * browser supporting js and html5 (chrome, mozilla 11+)
  * 7zip, winrar or other file 'unzipper' software
- * p5.js (included in zip)
+ * p5.js
 -=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
 Building/Running--
 1. Unzip 335-03-p1-Stitt.zip
